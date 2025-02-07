@@ -26,11 +26,11 @@ O projeto segue uma organização simples e modular, contendo classes responsáv
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/anaclarad/Estacionamento.git)
 
 Acesse a pasta do projeto:
 
-cd nome-do-projeto
+cd Estacionamento
 
 Compile e execute o programa:
 
